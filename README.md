@@ -34,7 +34,7 @@ For each algorithm, provide a brief description of how it works and why it might
 
 
 Summary:
-This assessment demonstrates your ability to load, preprocess, and apply multiple supervised learning algorithms to the breast cancer dataset. By comparing the performance of these algorithms, you gain insights into their effectiveness for this specific dataset.
+This assessment demonstrates my ability to load, preprocess, and apply multiple supervised learning algorithms to the breast cancer dataset. By comparing the performance of these algorithms, we gain insights into their effectiveness for this specific dataset.
 
 GitHub Link: https://github.com/ushad25
 
