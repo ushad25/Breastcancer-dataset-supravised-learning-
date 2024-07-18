@@ -31,8 +31,10 @@ For each algorithm, provide a brief description of how it works and why it might
 ![image](https://github.com/user-attachments/assets/36d8e325-b5a7-43ab-85a6-1da0c77f1489)
 ![image](https://github.com/user-attachments/assets/db0c1d08-81a7-494b-a1b8-216442fdf09f)
 ![image](https://github.com/user-attachments/assets/c07ad794-fddc-4737-aac5-02796dc85ad1)
+
+
 Summary:
 This assessment demonstrates your ability to load, preprocess, and apply multiple supervised learning algorithms to the breast cancer dataset. By comparing the performance of these algorithms, you gain insights into their effectiveness for this specific dataset.
 
-GitHub Link: 
+GitHub Link: https://github.com/ushad25
 
